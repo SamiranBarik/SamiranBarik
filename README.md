@@ -17,7 +17,7 @@ ML/Tools: OpenCV, TensorFlow, Flask
 
 📂 Featured Projects
 
-Fingerprint-Based Blood Group Detection** — CNN + OpenCV + Flask (IEEE ISAC 2025).  
+Fingerprint-Based Blood Group Detection — CNN + OpenCV + Flask (IEEE ISAC 2025).  
 Note Taker Web App — Java, Servlets, JSP, Hibernate, MySQL.  
 Weather Forecast App — JS + Weather API, asynchronous fetch + UI error handling.
 
