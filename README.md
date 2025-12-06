@@ -13,3 +13,13 @@ Frontend: HTML, CSS, JavaScript, ReactJS
 Database: MySQL, Oracle, MongoDB
 Tools: Git, GitHub, IntelliJ, Eclipse, VS Code
 ML/Tools: OpenCV, TensorFlow, Flask
+
+📂 Featured Projects
+Fingerprint-Based Blood Group Detection** — CNN + OpenCV + Flask (IEEE ISAC 2025).  
+Note Taker Web App** — Java, Servlets, JSP, Hibernate, MySQL.  
+Weather Forecast App** — JS + Weather API, asynchronous fetch + UI error handling.
+
+📫 Connect
+Email: samiranbarik100@gmail.com  
+LinkedIn: https://www.linkedin.com/in/samiranbarik  
+GitHub: https://github.com/SamiranBarik
