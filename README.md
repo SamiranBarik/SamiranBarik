@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m Samirana Barik
+Java Full Stack Developer | Spring Boot • Hibernate • REST APIs • MySQL | ReactJS
 
-<!--
-**SamiranBarik/SamiranBarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate Full Stack Developer skilled in Java, backend APIs, database-driven applications, and modern frontend technologies. I enjoy solving real-world problems with clean code, strong logic, and scalable architectures.
 
-Here are some ideas to get you started:
+I have built full-stack applications using Java, Spring Boot, Hibernate, JSP/Servlets, MySQL, and modern JavaScript frameworks. I also developed a machine-learning based project — Fingerprint-Based Blood Group Detection, which was recognized in IEEE ISAC 2025.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+
+Languages: Java, Python, JavaScript, SQL
+Backend: Spring Boot, Hibernate, JDBC, Servlets, JSP
+Frontend: HTML, CSS, JavaScript, ReactJS
+Database: MySQL, Oracle, MongoDB
+Tools: Git, GitHub, IntelliJ, Eclipse, VS Code
+ML/Tools: OpenCV, TensorFlow, Flask
