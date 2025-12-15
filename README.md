@@ -1,28 +1,15 @@
-👋 Hi, I’m Samirana Barik
+# 💫 About Me:
+👋 Hi, I’m Samirana Barik<br><br>Java Full Stack Developer | Spring Boot • Hibernate • REST APIs • MySQL | ReactJS<br><br>I’m a passionate Full Stack Developer skilled in Java, backend APIs, database-driven applications, and modern frontend technologies. I enjoy solving real-world problems with clean code, strong logic, and scalable architectures.<br><br>I have built full-stack applications using Java, Spring Boot, Hibernate, JSP/Servlets, MySQL, and modern JavaScript frameworks. I also developed a machine-learning based project — Fingerprint-Based Blood Group Detection, which was recognized in IEEE ISAC 2025.<br><br>🚀 Tech Stack<br><br>Languages: Java, Python, JavaScript, SQL Backend: Spring Boot, Hibernate, JDBC, Servlets, JSP Frontend: HTML, CSS, JavaScript, ReactJS Database: MySQL, Oracle, MongoDB Tools: Git, GitHub, IntelliJ, Eclipse, VS Code ML/Tools: OpenCV, TensorFlow, Flask<br><br>📂 Featured Projects<br><br>Fingerprint-Based Blood Group Detection — CNN + OpenCV + Flask (IEEE ISAC 2025).<br>Note Taker Web App — Java, Servlets, JSP, Hibernate, MySQL.<br>SCM Contact Management System — Spring Boot backend with REST APIs for user & contact management, validation, pagination, and Postman-tested endpoints.<br><br>📫 Connect<br><br>Email: samiranbarik100@gmail.com<br>LinkedIn: https://www.linkedin.com/in/samiranbarik<br>GitHub: https://github.com/SamiranBarik
 
-Java Full Stack Developer | Spring Boot • Hibernate • REST APIs • MySQL | ReactJS
 
-I’m a passionate Full Stack Developer skilled in Java, backend APIs, database-driven applications, and modern frontend technologies. I enjoy solving real-world problems with clean code, strong logic, and scalable architectures.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SamiranBarik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SamiranBarik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiranBarik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I have built full-stack applications using Java, Spring Boot, Hibernate, JSP/Servlets, MySQL, and modern JavaScript frameworks. I also developed a machine-learning based project — Fingerprint-Based Blood Group Detection, which was recognized in IEEE ISAC 2025.
+---
+[![](https://visitcount.itsvg.in/api?id=SamiranBarik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 Tech Stack
-
-Languages: Java, Python, JavaScript, SQL
-Backend: Spring Boot, Hibernate, JDBC, Servlets, JSP
-Frontend: HTML, CSS, JavaScript, ReactJS
-Database: MySQL, Oracle, MongoDB
-Tools: Git, GitHub, IntelliJ, Eclipse, VS Code
-ML/Tools: OpenCV, TensorFlow, Flask
-
-📂 Featured Projects
-
-Fingerprint-Based Blood Group Detection — CNN + OpenCV + Flask (IEEE ISAC 2025).  
-Note Taker Web App — Java, Servlets, JSP, Hibernate, MySQL.  
-Weather Forecast App — JS + Weather API, asynchronous fetch + UI error handling.
-
-📫 Connect
-
-Email: samiranbarik100@gmail.com  
-LinkedIn: https://www.linkedin.com/in/samiranbarik  
-GitHub: https://github.com/SamiranBarik
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
